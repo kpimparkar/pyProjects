@@ -15,10 +15,10 @@ Details : Thi is just a test script to understand basics of turtle module.
 4. Lake pend oreille weather statistics
 Details : This is solution to Lynda code clinic prolem. This solution uses Tkinter, sqlite3, urllib to fetch weather statistcs of Lake pend oreille for the chosen date range and shows the mean and median values on screen.
 Files : 
-a. CreateGUI.py - Master file. Creates the UI and calls rest of the modules. 
-b. DbOps.py - stores and retrieves the data in a sqlite3 data base.
-c. GetWebData.py - connects to the url and fetches the data
+a. CreateGUI.py - Master file. Creates the UI and calls rest of the modules.   
+b. DbOps.py - stores and retrieves the data in a sqlite3 data base.  
+c. GetWebData.py - connects to the url and fetches the data  
 Usage :
-a. update CreateGUI.py with a local path of image lpo_logo.gif
-	current detail : logo=PhotoImage(file=r'C:\Users\kpimp\KeTan\PyHw\Lynda_Code_clinic_2014\lpo_logo.gif')
-b. execute CreateGUI.py to use the GUI
+a. update CreateGUI.py with a local path of image lpo_logo.gif  
+	current detail : logo=PhotoImage(file=r'C:\Users\kpimp\KeTan\PyHw\Lynda_Code_clinic_2014\lpo_logo.gif')  
+b. execute CreateGUI.py to use the GUI  
