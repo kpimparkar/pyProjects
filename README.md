@@ -22,3 +22,7 @@ Usage :
 a. update CreateGUI.py with a local path of image lpo_logo.gif  
 	current detail : logo=PhotoImage(file=r'C:\Users\kpimp\KeTan\PyHw\Lynda_Code_clinic_2014\lpo_logo.gif')  
 b. execute CreateGUI.py to use the GUI  
+
+5. AccessTimeline.py  
+   user_credentials.py  
+Details : This script connects to Twitter REST API and fetched 20 latest tweets from user's Twitter home. user_credentials.py should contain user access keys and access token keys.
