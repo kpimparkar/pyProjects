@@ -7,7 +7,7 @@ Output : A representation of solution chess board with letter "Q" marking the po
 
 
 2. PlayTime.py  
-Details : This is a milyicolored doodle. It provides a canvas to draw and changes the color of the background dynamically based on the position of the cursor.
+Details : This is a multicolored doodle. It provides a canvas to draw and changes the color of the background dynamically based on the position of the cursor.
 
 3. turtle_test1.py  
 Details : Thi is just a test script to understand basics of turtle module.
